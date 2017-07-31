@@ -6,6 +6,9 @@ Main Header
 The MainHeader component contains the logo and navbar at the top of the screen. See an example at
 the [AdminLTE site][admin-lte].
 
+# TODO
+Add MainHeaderNav to docs
+
 ### Sub-components
  - [MainHeader](#mainheader)
    - [MainHeaderLogo](#mainheaderlogo)
